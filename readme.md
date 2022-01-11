@@ -1,4 +1,4 @@
-## Hello I'm Henning from Wilhelmshaven.
+## Hello I'm Henning from Wilhelmshaven. :neckbeard:
 
 - I'm a student at neuefische.
 - This is my first day at neuefische.
