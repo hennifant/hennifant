@@ -1,10 +1,9 @@
-<h1>Hello I'm Henning from Wilhelmshaven.</h1>
+## Hello I'm Henning from Wilhelmshaven.
 
-<ol>
-  <li>I'm a student at neuefische.</li>
-  <li>This is my first day at neuefische.</li>
-</ol>
+- I'm a student at neuefische.
+- This is my first day at neuefische.
 
-<strong> Wie oft arbeiten Sie im Schlafanzug? Never ever. </strong>
+
+**Wie oft arbeiten Sie im Schlafanzug? Never ever.**
 
 Testing.
