@@ -1,6 +1,6 @@
-## Hello, I'm Henning. :neckbeard:
+## Hello, I'm Henning. 🌑
 
-- I'm a student at neuefische.
+- I'm a student at [neuefische.de](https://www.neuefische.de/)
 
 Leisure:
 - drawing with ms paint
