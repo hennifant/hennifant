@@ -1,4 +1,4 @@
-## Hello, I'm Henning. 🐘
+## Hello, I'm Henning.
 
 Leisure:
 - drawing with ms paint 🖌️
