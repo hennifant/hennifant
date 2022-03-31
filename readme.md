@@ -14,6 +14,9 @@ I'm currently learning with neuefische to start my career in web development.
 ![Express.js](https://img.shields.io/badge/-Expressjs-000?logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?logo=Bootstrap)
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
+![Storybook](https://img.shields.io/badge/-Storybook-000?logo=Storybook)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 
 ### Leisure
 - drawing with ms paint 🖌️
