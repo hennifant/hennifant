@@ -1,4 +1,5 @@
-## Hello, I'm Henning.
+### Hello, I'm Henning.
+I'm currently learning with neuefische to start my career in web development.
 
 ### Languages
 
