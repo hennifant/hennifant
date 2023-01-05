@@ -1,5 +1,4 @@
 ### Hello, I'm Henning.
-I'm currently learning with neue fische to start my career in web development.
 
 ### Languages
 
