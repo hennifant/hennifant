@@ -21,7 +21,7 @@
 ![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=Docker&logoColor=white)
 
 ### Leisure
-- drawing with ms paint 🖌️ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hennifantus/)
+- drawing with ms paint 🖌️ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hennifant/)
 
 
  
